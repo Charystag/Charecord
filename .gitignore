@@ -1,0 +1,11 @@
+# Vim Swap Files
+*.swp
+
+# Unnamed executables
+a.out
+
+# Object Files
+*.o
+
+# Dependancies Files
+*.d
